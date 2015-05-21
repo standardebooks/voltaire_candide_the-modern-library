@@ -42,11 +42,11 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltaire_candide_the-modern-library</meta>
 		<dc:creator id="author">Voltaire</dc:creator>
 		<meta property="file-as" refines="#author">Voltaire</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Voltaire</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Voltaire</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">The Modern Library</dc:contributor>
 		<meta property="file-as" refines="#translator">Modern Library, The</meta>
-		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Modern_Library</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Modern_Library</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="commentator">Philip Littell</dc:contributor>
 		<meta property="file-as" refines="#commentator">Littell, Philip</meta>
@@ -54,7 +54,7 @@
 		<meta property="role" refines="#commentator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Maurice Quentin de La Tour</dc:contributor>
 		<meta property="file-as" refines="#artist">De La Tour, Maurice Quentin</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Maurice_Quentin_de_La_Tour</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Maurice_Quentin_de_La_Tour</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
