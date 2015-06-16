@@ -25,3 +25,7 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	margin-top: 2em;
 	text-align: right;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
