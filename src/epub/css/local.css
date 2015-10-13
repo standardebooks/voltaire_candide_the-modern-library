@@ -1,13 +1,13 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-section[epub|type~="bodymatter"] span[epub|type~="subtitle"],
-h2 a{
+span[epub|type~="subtitle"]{
+	display: block;
 	font-weight: normal;
 }
 
-h2 span[epub|type~="z3998:roman"]{
-	display: block;
+h2 a{
+	font-weight: normal;
 }
 
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
