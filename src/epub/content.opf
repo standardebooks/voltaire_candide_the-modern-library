@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/voltaire/candide/the-modern-library</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-19T00:03:57Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,9 +34,10 @@
 			&lt;p&gt;&lt;i&gt;Candide&lt;/i&gt; is the picaresque tale of the titular character&amp;rsquo;s fantastical journey from an insular, idealized life in a picturesque castle through the difficulties and evils of the real world.  Satirical, comical, witty, and cutting, &lt;i&gt;Candide&lt;/i&gt; was widely banned in its day for containing blasphemous and seditious concepts.  Despite that, it survived controversy to become an important book in the Western literary heritage. Today &lt;i&gt;Candide&lt;/i&gt; remains a breezy and darkly funny read.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/19942</dc:source>
 		<meta property="se:word-count">33725</meta>
+		<meta property="se:reading-ease.flesch">67.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Candide</meta>
 		<meta property="se:production-notes">Italics have been removed from some foreign words that are today known to modern readers and are found in Merriam-Webster. (Detour, auto-da-fe, fete, etc.)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltaire_candide_the-modern-library</meta>
