@@ -18,10 +18,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
