@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Candide</dc:title>
 		<meta property="file-as" refines="#title">Candide</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,14 +37,13 @@
 		<meta property="file-as" refines="#fulltitle">Candide, or the Optimist</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Voltaire, 1694-1778. Candide</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/90036677</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Candide&lt;/i&gt; is the picaresque tale of the titular character’s fantastical journey from an insular, idealized life in a picturesque castle through the difficulties and evils of the real world. Satirical, comical, witty, and cutting, &lt;i&gt;Candide&lt;/i&gt; was widely banned in its day for containing blasphemous and seditious concepts. Despite that, it survived controversy to become an important book in the Western literary heritage. Today &lt;i&gt;Candide&lt;/i&gt; remains a breezy and darkly funny read.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19942</dc:source>
 		<meta property="se:word-count">33776</meta>
