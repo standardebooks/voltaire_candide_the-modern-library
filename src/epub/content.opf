@@ -41,6 +41,8 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Satire</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A witty satire that tells of the young Candide’s attempts to stay optimistic through a series of incredible hardships.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Candide&lt;/i&gt; is the picaresque tale of the titular character’s fantastical journey from an insular, idealized life in a picturesque castle through the difficulties and evils of the real world. Satirical, comical, witty, and cutting, &lt;i&gt;Candide&lt;/i&gt; was widely banned in its day for containing blasphemous and seditious concepts. Despite that, it survived controversy to become an important book in the Western literary heritage. Today &lt;i&gt;Candide&lt;/i&gt; remains a breezy and darkly funny read.&lt;/p&gt;
