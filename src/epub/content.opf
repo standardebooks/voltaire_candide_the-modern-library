@@ -67,9 +67,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#commentator">http://id.loc.gov/authorities/names/n2012040177</meta>
 		<meta property="role" refines="#commentator" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#commentator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">Maurice Quentin de La Tour</dc:contributor>
-		<meta property="file-as" refines="#artist">De La Tour, Maurice Quentin</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Maurice_Quentin_de_La_Tour</meta>
+		<dc:contributor id="artist">Jean Huber</dc:contributor>
+		<meta property="file-as" refines="#artist">Huber, Jean</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://id.loc.gov/authorities/n96018190</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86021550</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
