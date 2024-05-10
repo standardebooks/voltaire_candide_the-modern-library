@@ -49,7 +49,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/19942</dc:source>
 		<dc:source>https://archive.org/details/Candide_887</dc:source>
 		<meta property="se:word-count">33802</meta>
-		<meta property="se:reading-ease.flesch">67.89</meta>
+		<meta property="se:reading-ease.flesch">68.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Candide</meta>
 		<meta property="se:production-notes">Italics have been removed from some foreign words that are today known to modern readers and are found in Merriam-Webster. (Detour, auto-da-fe, fete, etc.)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltaire_candide_the-modern-library</meta>
