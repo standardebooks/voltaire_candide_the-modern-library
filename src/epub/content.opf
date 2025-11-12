@@ -66,8 +66,8 @@
 		<dc:contributor id="commentator">Philip Littell</dc:contributor>
 		<meta property="file-as" refines="#commentator">Littell, Philip</meta>
 		<meta property="se:url.authority.nacoaf" refines="#commentator">http://id.loc.gov/authorities/names/n2012040177</meta>
-		<meta property="role" refines="#commentator" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#commentator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#commentator" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Jean Huber</dc:contributor>
 		<meta property="file-as" refines="#artist">Huber, Jean</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://id.loc.gov/authorities/names/n96018190</meta>
