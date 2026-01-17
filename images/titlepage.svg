@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of Candide, by Voltaire. Translated by the Modern Library</title>
+	<title>The titlepage for the Standard Ebooks edition of Candide, by Voltaire. Translated by The Modern Library</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -29,6 +29,6 @@
 	</style>
 	<text class="title" x="700" y="130">CANDIDE</text>
 	<text class="author" x="700" y="290">VOLTAIRE</text>
-	<text class="contributor-descriptor" x="700" y="470">translated by</text>
+	<text class="contributor-descriptor" x="700" y="480">translated by</text>
 	<text class="contributor" x="700" y="540">THE MODERN LIBRARY</text>
 </svg>
