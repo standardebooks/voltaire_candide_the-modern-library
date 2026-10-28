@@ -72,6 +72,7 @@
 		<meta property="role" refines="#commentator" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Jean Huber</dc:contributor>
 		<meta property="file-as" refines="#artist">Huber, Jean</meta>
+		<link href="https://en.wikipedia.org/wiki/Jean_Huber" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n96018190.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
